@@ -1,3 +1,9 @@
+1. Read as input the Twitter Sample stream
+
+2. Every 30 seconds, write to STDOUT the top 10 hash tags that occurred in past 60 seconds
+
+sorted in ascending order by occurrence
+
 I. TO BUILD
 The ant build file is TopTweeted/build.xml. 
 
